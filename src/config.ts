@@ -6,7 +6,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "个人主页",
         url: "http://un6666.cn/",
-        icon: "",
+        icon: "https://s3.bmp.ovh/imgs/2024/08/24/6d4d6a6a3f453145.png",
         color: "#0171CD",
       },
     ],
@@ -31,7 +31,7 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "加入交流群组",
+  BLOG_NAME: "交流群组",
   /**
    * 个人博客链接
    */
@@ -39,7 +39,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "https://s3.bmp.ovh/imgs/2024/08/24/6d4d6a6a3f453145.png",
   /**
    * 个人 Github 链接
    */
