@@ -6,9 +6,14 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "个人主页",
         url: "http://un6666.cn/",
-        icon: "https://s3.bmp.ovh/imgs/2024/08/24/6d4d6a6a3f453145.png",
+        icon: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
         color: "#0171CD",
-      },
+      },{
+        title: "UN博客",
+        url: "http://blog.un6666.top/",
+        icon: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
+        color: "#0171CD",
+      }
     ],
   },
   {
@@ -39,7 +44,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://s3.bmp.ovh/imgs/2024/08/24/6d4d6a6a3f453145.png",
+  LOGO_URL: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
   /**
    * 个人 Github 链接
    */
@@ -61,7 +66,6 @@ const GLOBAL_CONFIG = {
     "欢迎拜访",
     "歡迎拜訪",
     "Welcome, my friend!",
-    "訪問へようこそ",
     "嗨，别来无恙",
     "不忘初心，一生浪漫",
     "最近还好吗？",
