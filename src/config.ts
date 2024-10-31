@@ -6,12 +6,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "个人主页",
         url: "http://un6666.cn/",
-        icon: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
+        icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
         color: "#0171CD",
       },{
         title: "UN博客",
         url: "http://blog.un6666.top/",
-        icon: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
+        icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
         color: "#0171CD",
       }
     ],
@@ -23,7 +23,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "EsunR Blog",
         description: "EsunR 的博客",
         url: "https://www.esunr.xyz",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
+        icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
       },
     ],
   },
