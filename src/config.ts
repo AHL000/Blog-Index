@@ -44,7 +44,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "http://blog.un6666.top/content/uploadfile/202408/a1a51724640366.png",
+  LOGO_URL: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
   /**
    * 个人 Github 链接
    */
@@ -63,14 +63,16 @@ const GLOBAL_CONFIG = {
    * 网站欢迎标语
    */
   SLOGANS: [
-    "欢迎拜访",
-    "歡迎拜訪",
-    "Welcome, my friend!",
-    "嗨，别来无恙",
-    "不忘初心，一生浪漫",
-    "最近还好吗？",
-    "流星，落花，萤火",
-    "马车越空，晃荡越响",
+    "晨光微露，希望满怀",
+"晨曦初照，梦想起航",
+"Hello, have a nice day!",
+"岁月静好，微笑向阳",
+"心有猛虎，细嗅蔷薇",
+"近来可好，愿君安康",
+"繁星点点，夜色温柔",
+"空杯心态，常怀敬畏",
+"风雨兼程，一路向前",
+"静水流深，智者无言",
   ],
   /**
    * Website 分类配置
