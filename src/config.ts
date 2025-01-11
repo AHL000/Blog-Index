@@ -9,8 +9,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
         color: "#0171CD",
       },{
-        title: "UN博客",
-        url: "http://blog.un6666.top/",
+        title: "柚恩分享站",
+        url: "http://web.un6666.top/",
+        icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
+        color: "#0171CD",
+      },{
+        title: "交流群组",
+        url: "https://qm.qq.com/q/ytv3iNPRzW",
         icon: "http://q.qlogo.cn/headimg_dl?dst_uin=1477674946&spec=640&img_type=jpg",
         color: "#0171CD",
       }
